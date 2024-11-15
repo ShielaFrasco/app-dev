@@ -4,7 +4,7 @@ My first repository
 # Name: **Shiela S. Frasco**
 ## BSCS 3-1AA 
 
-# My Favorate Filipino Series 
+# My Favorite Filipino Series 
 - DOLCE AMORE
 - Forevermore
 - 2 good to be true
